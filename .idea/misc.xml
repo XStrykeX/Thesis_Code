@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/drawable/ccm_custom_progress_bar.xml" value="0.2235" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/drawable/ccm_off_square_button.xml" value="0.2235" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/drawable/ccm_progress_bar.xml" value="0.2235" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/drawable/ccm_round_button.xml" value="0.2235" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/drawable/ccm_round_progress_bar.xml" value="0.2235" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/drawable/ccm_square_button.xml" value="0.2235" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/drawable/ccm_square_progress_bar.xml" value="0.2235" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout-land/activity_advanced_settings.xml" value="0.33304831124412143" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout-land/activity_login.xml" value="0.33304831124412143" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout-land/activity_main.xml" value="0.33304831124412143" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout-land/activity_registration.xml" value="0.40572916666666664" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout-land/activity_standard_settings.xml" value="0.33304831124412143" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout-land/activity_welcome_screen.xml" value="0.33304831124412143" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout/activity_advanced_settings.xml" value="0.2941427960666952" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout/activity_login.xml" value="0.2941427960666952" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout/activity_main.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout/activity_registration.xml" value="0.2941427960666952" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout/activity_standard_settings.xml" value="0.2825994014536127" />
+        <entry key="..\:/Users/petru/AndroidStudioProjects/ThesisApplicationCorrected/app/src/main/res/layout/activity_welcome_screen.xml" value="0.2941427960666952" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
